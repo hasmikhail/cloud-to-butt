@@ -3,7 +3,7 @@ cloud-to-butt
 
 ![](logo.png)
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'you all' with 'y'all'
 
 [Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
 
